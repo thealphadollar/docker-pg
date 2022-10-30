@@ -1,6 +1,6 @@
 # docker-pg
 
-A playground to build Docker and learn it's internal working.
+The repository is a playground to build Docker and learn its internal working.
 
 The Docker implementations are in the following languages:
 
